@@ -1,0 +1,7 @@
+🧠 Коли що використовувати
+Ситуація	     Що брати
+просто знайти	 presence
+вводити текст	 visibility
+клікнути	     clickable
+
+EC.visibility_of_element_located
